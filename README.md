@@ -1,1 +1,1 @@
-# Python 3 - Mundo 1 (Curso em Vídeo)
+# Curso de Python 3 - Mundo 1 (Curso em Vídeo)
